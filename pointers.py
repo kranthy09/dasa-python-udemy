@@ -1,24 +1,24 @@
-# num1 = 11
+num1 = 11
 
-# num2 = num1
+num2 = num1
 
-# print("before num2 value is updated")
-# print("num1 value: ", num1)
-# print("num2 value: ", num2)
+print("before num2 value is updated")
+print("num1 value: ", num1)
+print("num2 value: ", num2)
 
-# print("\nnum1 points to:", id(num1))
-# print("\nnum2 points to:", id(num2))
+print("\nnum1 points to:", id(num1))
+print("\nnum2 points to:", id(num2))
 
 
-# num2 = 22
+num2 = 22
 
-# print("\nafter num2 value is updated")
+print("\nafter num2 value is updated")
 
-# print("num1 value: ", num1)
-# print("num2 value: ", num2)
+print("num1 value: ", num1)
+print("num2 value: ", num2)
 
-# print("\nnum1 points to:", id(num1))
-# print("\nnum2 points to:", id(num2))
+print("\nnum1 points to:", id(num1))
+print("\nnum2 points to:", id(num2))
 
 
 dict1 = {
